@@ -1,3 +1,3 @@
 # class7_webLayout
 
-as usual
+link:https://rubelrana69.github.io/class7_webLayout/
