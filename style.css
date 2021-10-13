@@ -1,0 +1,45 @@
+.header,
+.footer {
+	min-height: 100px;
+}
+.powderblue {
+	background: powderblue;
+}
+.wrapper {
+	overflow: hidden;
+}
+.contact, 
+.blog,
+.single_item, 
+.four_column .single_item {
+	width: 50%;
+	min-height: 250px;
+	float: left;
+}
+.blog {
+	float: right;
+}
+.violet {
+	background: violet;
+}
+.orange {
+	background: orange;
+}
+.black {
+	background: black;
+}
+.yellow {
+	background: yellow;
+}
+.four_column .single_item {
+	width: 25%;
+}
+.cyan {
+	background: cyan;
+}
+.red {
+	background: red;
+}
+.gray{
+	background: gray;
+}
